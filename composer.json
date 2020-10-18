@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "php": "~7.2",
+        "php": "^7.3",
         "borisguery/transient-error-handling": "^0.4.0",
         "neighborhoods/throwable-diagnostic-component": "^2.1"
     },
